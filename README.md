@@ -18,6 +18,7 @@ php composer.phar install
 ```bash
 
 cp config.php.dist config.php 
+nano config.php
 
 ```
 
