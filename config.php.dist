@@ -1,0 +1,9 @@
+<?php
+
+return array(
+    'host'     => '127.0.0.1',
+    'driver'   => 'pdo_mysql',
+    'user'     => 'root',
+    'password' => '1234',
+    'dbname'   => 'doctrine_test',
+);
